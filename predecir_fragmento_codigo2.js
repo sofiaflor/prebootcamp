@@ -41,5 +41,6 @@ Diagrama de T
 
 Variables     Valores
 movielibrary  ["Bambi", "E.T.", "Toy Story"]
-
+movielibrary  ["Bambi", "E.T.", "Toy Story", "Zorro"]
+movielibrary  ["Bambi", "Beetlejuice", "Toy Story", "Zorro"]
 */
