@@ -34,13 +34,13 @@ var movieLibrary = ["Bambi", "E.T.", "Toy Story"];
 movieLibrary.push("Zoro");
 movieLibrary[1] = "Beetlejuice";
 console.log(movieLibrary);
-//console.log imprime ["Bambi", "Beetlejuice", "Toy Story", "Zorro"]//
+//console.log imprime ["Bambi", "Beetlejuice", "Toy Story", "Zoro"]//
 
 /*
 Diagrama de T
 
 Variables     Valores
 movielibrary  ["Bambi", "E.T.", "Toy Story"]
-movielibrary  ["Bambi", "E.T.", "Toy Story", "Zorro"]
-movielibrary  ["Bambi", "Beetlejuice", "Toy Story", "Zorro"]
+movielibrary  ["Bambi", "E.T.", "Toy Story", "Zoro"]
+movielibrary  ["Bambi", "Beetlejuice", "Toy Story", "Zoro"]
 */
