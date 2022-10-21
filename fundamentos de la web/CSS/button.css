@@ -1,10 +1,11 @@
 .boton1{
-    border-radius: 15px;
-    height: 25px;
+    border-radius: 25px;
+    height: 35px;
     width: 120px;
     border-color: aqua;
     background-color: white;
     color: hsl(180, 54%, 38%);
+  
 }
 
 .boton2{
